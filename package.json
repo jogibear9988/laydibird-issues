@@ -1,0 +1,25 @@
+{
+  "name": "get-box-quads-polyfill",
+  "version": "3.0.1",
+  "description": "a polyfill for the getBoxQuads API",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jogibear9988/getBoxQuadsPolyfill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jogibear9988/getBoxQuadsPolyfill/issues"
+  },
+  "homepage": "https://github.com/jogibear9988/getBoxQuadsPolyfill#readme",
+  "scripts": {
+    "build": "tsc",
+    "start": "web-dev-server --open"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@web/dev-server": "^0.4.4",
+    "typescript": "^5.5.3"
+  }
+}
